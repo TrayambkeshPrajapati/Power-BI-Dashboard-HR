@@ -127,10 +127,4 @@ Analyzes employee retention and salary trends.
 
 ---
 
-# 🧮 Key DAX Measures
 
-### Total Employees
-
-```DAX
-Total Employees =
-COUNT(HRDataset_v14[EmpID])
