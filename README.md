@@ -1,4 +1,9 @@
-# 📊 HR Analytics Dashboard | Power BI
+<img width="1295" height="564" alt="image" src="https://github.com/user-attachments/assets/bf6dc7bf-aada-432f-8afd-a7335cc51b33" /># 📊 HR Analytics Dashboard | Power BI
+
+# Dashboard Preview
+<img width="1307" height="617" alt="image" src="https://github.com/user-attachments/assets/934a05a5-5a94-4eb8-b407-81cd64fbd542" />
+
+<img width="1295" height="564" alt="image" src="https://github.com/user-attachments/assets/a59e04c3-0b66-491d-81bf-6a549b3a0f5e" />
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
@@ -85,8 +90,8 @@ Analyzes employee demographics and organizational structure.
 - Employee count by department
 - Employee distribution by position
 - Workforce demographics
-- Employee tenure analysis
-- Location-based workforce insights
+- Employees by Citizenship analysis
+- Employees by Race
 
 ---
 
@@ -94,17 +99,15 @@ Analyzes employee demographics and organizational structure.
 
 Focuses on employee productivity and satisfaction.
 
-### Metrics:
-- Average Performance Score
-- Engagement Survey Score
-- Employee Satisfaction
+### KPIS:
+- Average Engagement
+- Average Performance
+- Average Satisfaction
 
 ### Visuals:
 - Performance Distribution
 - Engagement by Department
-- Satisfaction Analysis
 - Absence Analysis
-- Employee Performance Relationships
 
 ---
 
@@ -115,16 +118,11 @@ Analyzes employee retention and salary trends.
 ### KPIs:
 - Attrition Rate
 - Employees Left
-- Average Salary
-- Total Salary Expense
+- Active Employees
 
 ### Visuals:
 - Attrition by Department
-- Attrition by Recruitment Source
 - Salary by Department
-- Salary Distribution
-- Employee Tenure Analysis
+- Yearly Termination
 
 ---
-
-
