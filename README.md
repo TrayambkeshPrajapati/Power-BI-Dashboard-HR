@@ -1,4 +1,4 @@
-<img width="1295" height="564" alt="image" src="https://github.com/user-attachments/assets/bf6dc7bf-aada-432f-8afd-a7335cc51b33" /># 📊 HR Analytics Dashboard | Power BI
+# 📊 HR Analytics Dashboard | Power BI
 
 # Dashboard Preview
 <img width="1307" height="617" alt="image" src="https://github.com/user-attachments/assets/934a05a5-5a94-4eb8-b407-81cd64fbd542" />
